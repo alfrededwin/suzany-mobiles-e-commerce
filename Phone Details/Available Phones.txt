@@ -1,0 +1,66 @@
+-Apple-
+
+1.IPhone X - 
+2.IPhone 8 - 
+3.IPhone 8Plus -
+4.IPhone 7 -
+5.IPhone 7Plus - 
+6.IPhone 6S - 
+7.IPhone 6SPlus -
+8.IPhone SE -
+=======================================
+-Samsung-
+
+9.Samsung Galaxy S9 
+10.Samsung Galaxy S9Plus 
+11.Samsung Galaxy S8 
+12.Samsung Galaxy S8Plus
+13.Samsung Galaxy S7
+14.Samsung Galaxy S7Edge
+15.Samsung Galaxy A9
+16.Samsung Galaxy A8
+17.Samsung Galaxy Note8
+=======================================
+-HTC-
+
+18.HTC U11 -
+19.HTC One M9 -
+20.HTC One M9 Plus -
+21.HTC U Ultra -
+22.HTC 10 -
+=======================================
+-OnePlus-
+
+23.OnePlus 6 -
+24.OnePlus 5T -
+25.OnePlus 5 -
+26.OnePlus 3T -
+27.OnePlus 3 -
+28.OnePlus One -
+=======================================
+-VIVO-
+
+29.Vivo V9 -
+30.Vivo V9 Youth -
+31.Vivo V7 -
+=======================================
+-OPPO-
+
+32.Oppo F1 Plus - 
+33.Oppo R7 Plus -
+34.Oppo F7 -
+35.Oppo F3 Plus -
+36.Oppo F5 -
+=======================================
+-Huawei-
+
+37.Huawei P20 Pro 
+38.Huawei P20
+39.Huawei Mate 10 Pro
+40.Huawei P10 Plus
+41.Huawei P10
+42.Huawei Mate 8
+43.Huawei P8
+44.Huawei P9
+45.Huawei G7 Plus
+=======================================

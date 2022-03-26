@@ -1,0 +1,5 @@
+Create a database as the backup name eg:- suzanydb
+Click on the database suzanydb
+Click on import
+Browse the .sql file
+Click on go
